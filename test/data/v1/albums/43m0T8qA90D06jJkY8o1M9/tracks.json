@@ -1,0 +1,30 @@
+{
+  "href": "https://api.spotify.com/v1/albums/43m0T8qA90D06jJkY8o1M9/tracks?offset=0&limit=50",
+  "items": [
+    {
+      "artists": [
+        {
+          "id": "0LyfUuZtm6h3SnoP7FY7yw",
+          "name": "SIMONS"
+        },
+        {
+          "id": "4UJP03mzC9b90Qq1TqavvN",
+          "name": "Flint & Figure"
+        }
+      ],
+      "duration_ms": 180000,
+      "explicit": false,
+      "href": "https://api.spotify.com/v1/tracks/7fEUPWIURpuDCyqnI20tmB",
+      "id": "7fEUPWIURpuDCyqnI20tmB",
+      "name": "Samurai - Tom Dune, Flint & Figure Remix",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:7fEUPWIURpuDCyqnI20tmB"
+    }
+  ],
+  "limit": 50,
+  "next": null,
+  "offset": 0,
+  "previous": null,
+  "total": 1
+}

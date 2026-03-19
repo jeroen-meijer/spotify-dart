@@ -1,0 +1,53 @@
+{
+  "href": "https://api.spotify.com/v1/artists/4UJP03mzC9b90Qq1TqavvN/albums?offset=0&limit=20&include_groups=album,single,appears_on",
+  "items": [
+    {
+      "album_group": "appears_on",
+      "album_type": "single",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfUuZtm6h3SnoP7FY7yw"
+          },
+          "href": "https://api.spotify.com/v1/artists/0LyfUuZtm6h3SnoP7FY7yw",
+          "id": "0LyfUuZtm6h3SnoP7FY7yw",
+          "name": "SIMONS",
+          "type": "artist",
+          "uri": "spotify:artist:0LyfUuZtm6h3SnoP7FY7yw"
+        }
+      ],
+      "available_markets": ["AD", "AE", "US"],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/43m0T8qA90D06jJkY8o1M9"
+      },
+      "href": "https://api.spotify.com/v1/albums/43m0T8qA90D06jJkY8o1M9",
+      "id": "43m0T8qA90D06jJkY8o1M9",
+      "images": [],
+      "name": "Samurai (Tom Dune, Flint & Figure Remix)",
+      "release_date": "2024-05-10",
+      "release_date_precision": "day",
+      "total_tracks": 1,
+      "type": "album",
+      "uri": "spotify:album:43m0T8qA90D06jJkY8o1M9"
+    },
+    {
+      "album_group": "album",
+      "album_type": "album",
+      "artists": [
+        {
+          "id": "4UJP03mzC9b90Qq1TqavvN",
+          "name": "Flint & Figure"
+        }
+      ],
+      "id": "old_album_id",
+      "name": "Old Album",
+      "release_date": "2020-01-01",
+      "release_date_precision": "day"
+    }
+  ],
+  "limit": 20,
+  "next": null,
+  "offset": 0,
+  "previous": null,
+  "total": 2
+}
